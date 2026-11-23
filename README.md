@@ -49,8 +49,8 @@ Explored ticket revenue across different passenger age groups.
 
 ## 📷 Dashboard Preview
 
-![Flight Booking Dashboard] (<img width="1257" height="727" alt="Screenshot 2026-11-21 172948" src="https://github.com/user-attachments/assets/4105800f-c3fb-4ccf-9db7-a44848cf1b02" />
-)
+![Flight Booking Dashboard] <img width="1352" height="747" alt="Screenshot 2026-11-22 201946" src="https://github.com/user-attachments/assets/4851f705-33ac-476e-b1db-e9fd01088f1d" />
+
 
 ## 💡 Key Learnings
 
